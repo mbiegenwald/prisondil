@@ -1,4 +1,7 @@
 from __future__ import print_function
+#Name: Matthew Biegenwald
+#Date: 2/3/16
+
 
 ''' 
 PrisonerDilemma.py allows hard-coding different strategies
